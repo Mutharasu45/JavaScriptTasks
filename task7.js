@@ -63,8 +63,7 @@ function checkout(...products) {
     console.log("Products : ", products);
     console.log("Products Length : ", products.length); 
 }
-
-checkout("vivo", "oppo", "realme", "oneplus");
+checkout("vivo", "oppo", "realme", "onePlus");
 
 
 // Task 3: Student Report Card
